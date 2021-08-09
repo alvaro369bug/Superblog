@@ -1,1 +1,3 @@
 En este archivo voy a utilizar para practicar lo aprendí por el momento de git
+estoy probando diferentes comandos y ya me sé algunos
+
