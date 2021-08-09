@@ -1,1 +1,1 @@
-Este archivo es el que vpy a utilizar para practicar lo de git
+En este archivo voy a utilizar para practicar lo aprendí por el momento de git
