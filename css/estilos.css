@@ -4,6 +4,14 @@ body{
 
 }
 
+#cabecera{
+    background: lightblue;
+    color: lightsalmon;
+    margin: 0;
+}
+
+
+
 #container{
     width: 70%;
     padding: len;
